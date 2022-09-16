@@ -14,6 +14,7 @@ public class TestController {
     public String testHello(){
         System.out.println("yest");
         System.out.println("hot fix");
+        System.out.println("test push by IDEA");
         return "success";
     }
 }
