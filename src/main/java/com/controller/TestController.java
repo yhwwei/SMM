@@ -13,6 +13,7 @@ public class TestController {
     @RequestMapping("/test/hello")
     public String testHello(){
         System.out.println("yest");
+        System.out.println("hot fix");
         return "success";
     }
 }
