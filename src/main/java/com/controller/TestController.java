@@ -15,6 +15,7 @@ public class TestController {
         System.out.println("yest");
         System.out.println("hot fix");
         System.out.println("test push by IDEA");
+        System.out.println("test push by github");
         return "success";
     }
 }
